@@ -1,5 +1,6 @@
 
+for s in ["Hola ", "Mundo ", "!"]:
+print(s)
 
-#Esto es un hola mundo
-print ("Hola mundoooooo")
+print("Ya no hola")
 
