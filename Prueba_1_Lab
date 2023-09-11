@@ -1,7 +1,3 @@
 
-
-#Esto es un hola mundo
-print ("Hola mundoooooo")
-
 for s in ["Hola ", "Mundo ", "!"]:
 print(s)
